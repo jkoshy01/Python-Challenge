@@ -24,38 +24,40 @@ Before You Start: Here are the steps to follow
  
  PyBank Challenge 
 
-* First step, in this challenge, the task is to create a Python script that will analyze the financial records based on your company. 
+  
+  * First step, in this challenge, the task is to create a Python script that will analyze the financial records based on your company. 
   You will use this file [budget_data.csv](PyBank/Resources/budget_data.csv) to create the data set. 
 
-* Next you will create a Python script that will record and calculate the following:
+  * Next you will create a Python script that will record and calculate the following:
 
-* Calculate the "Total number of months
+  * Calculate the "Total number of months
 
-* Net total amount of "Profit/Losses" 
+  * Net total amount of "Profit/Losses" 
 
-* Average of the in "Profit/Losses"
+  * Average of the in "Profit/Losses"
 
-* The greatest increase
+  * The greatest increase
 
-* The greatest decrease
+  * The greatest decrease
 
 
 
 PyPoll Challenge:
 
-* In this assignment, you are helping a small town to help count the voting process
-
-*You will use this resource to composed your data set. Pull this resource thisPyPoll/Resources/election_data.csv. 
-
-*Here are the steps to calculate the analysis:
  
- * "Calculate the total number of votes
+ * In this assignment, you are helping a small town to help count the voting process
 
- * Then you will use the percentage of the candidates that had won
+  *You will use this resource to composed your data set. Pull this resource "PyPoll/Resources/election_data.csv." 
 
- * Then the number of votes the candidate had won
+   *Here are the steps to calculate the analysis:
+ 
+  * "Calculate the total number of votes
 
- * And the winner of the election based on popular vote."
+  * Then you will use the percentage of the candidates that had won
+
+  * Then the number of votes the candidate had won
+
+  * And the winner of the election based on popular vote."
 
 
   
