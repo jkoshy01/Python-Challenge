@@ -2,7 +2,7 @@
 
 Objective:
 
-You have just completed the Excel sheet and join the big data leagues. As we the start the journey of programming with Python. In this homework assignment, we will be using the concepts that you've learned to complete these two Python Challenges , The PyBank and The PyPoll.
+You have just completed the Excel sheet and join the big data leagues, as we the start the journey of programming with Python. In this homework assignment, we will be using the skills that you've learned to complete these two Python Challenges , The PyBank and The PyPoll.
 
 
 
