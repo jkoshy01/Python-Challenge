@@ -40,7 +40,7 @@ Before You Start
 
 * Here is an example below:
   
-  ```text
+ 
   Financial Analysis
   ----------------------------
   Total Months: 86
@@ -59,10 +59,9 @@ Before You Start
 *You will use this resource to composed your data set. Pull this resource thisPyPoll/Resources/election_data.csv. 
 
 
- Here are the steps to calculate the analysis
+ *Here are the steps to calculate the analysis
  
- 
-number of votes cast
+      *Number of total votes
 
   * " Calculate the total number of votes
 
@@ -74,8 +73,7 @@ number of votes cast
 
 Here is a example of how the analysis looks like
 
-
-   Election Votes
+Election Results
   -------------------------
   Total Votes: 3521001
   -------------------------
@@ -86,7 +84,10 @@ Here is a example of how the analysis looks like
   -------------------------
   Winner: Khan
   -------------------------
+
+  
  
- Please make sure to continue to Commit in this assignment.
+
+Please make sure to continue to Commit in this assignment.
 
 
