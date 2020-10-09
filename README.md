@@ -2,17 +2,17 @@
 
 Objective:
 
-Congrats you've made it!
-
 You have just completed the Excel sheet and join the big data leagues. As we the start the journey of programming with Python. In this homework assignment, we will be using the concepts that you've learned to complete these two Python Challenges , The PyBank and The PyPoll.
 
-Before You Start
+
+
+Before You Start: Here are the steps to follow
 
 * First you will create a new repository for this project and name it "Python - Challenge". "Please do not add this homework to any existing repository".
 
-* Then you will clone the new repository to your computer.
+* Then you will clone the new repository from your computer to Github
 
-* Then in your local git repository, you will create a directory for both of challenges. You will create a folder named  "PyBank" and "PyPoll".
+* Then in your repository, You will create a folder named  "PyBank" and "PyPoll". 
 
 * Here are the following items you will need inside your folder:
 
@@ -31,24 +31,15 @@ Before You Start
 
 * Calculate the "Total number of months
 
-* Net total amount of "Profit/Losses" over the  period
+* Net total amount of "Profit/Losses" 
 
-* Average of the in "Profit/Losses" over the period
+* Average of the in "Profit/Losses"
 
-* The greatest increase in profits over the period
+* The greatest increase
 
-* The greatest decrease in losses over the period."
+* The greatest decrease
 
-* Here is an example below:
-  
-  Financial Analysis
-  ----------------------------
-  Total Months: 86
-  Total: $38382578
-  Average  Change: $-2315.12
-  Greatest Increase in Profits: Feb-2012 ($1926159)
-  Greatest Decrease in Profits: Sep-2013 ($-2196167)
-  
+
 
 PyPoll Challenge:
 
@@ -58,20 +49,18 @@ PyPoll Challenge:
 
 *Here are the steps to calculate the analysis:
  
- * " Calculate the total number of votes
+ * "Calculate the total number of votes
 
- * The percentage of the candidates that had won
+ * Then you will use the percentage of the candidates that had won
 
- * The number of votes the candidate had won
+ * Then the number of votes the candidate had won
 
  * And the winner of the election based on popular vote."
-
-Here is how the analysis should look like
 
 
   
  
 
-Please make sure to continue to Commit in this assignment.
+Please make sure to continue to commit in this assignment to save the work.
 
 
