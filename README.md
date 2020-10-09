@@ -1,4 +1,4 @@
-# Python Homework - Py Me Up, Charlie
+# Python Assignment - "Py Me Up, Charlie"
 
 Objective:
 
@@ -26,7 +26,7 @@ Before You Start: Here are the steps to follow
 
   
   * First step, in this challenge, the task is to create a Python script that will analyze the financial records based on your company. 
-  You will use this file [budget_data.csv](PyBank/Resources/budget_data.csv) to create the data set. 
+  You will use this file "[budget_data.csv](PyBank/Resources/budget_data.csv)" to create the data set. 
 
   * Next you will create a Python script that will record and calculate the following:
 
