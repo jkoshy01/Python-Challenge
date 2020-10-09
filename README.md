@@ -36,9 +36,9 @@ Before You Start: Here are the steps to follow
 
   * Average of the in "Profit/Losses"
 
-  * The greatest increase
+  * Calculate The greatest increase
 
-  * The greatest decrease
+  * Calculate The greatest decrease
 
 
 
