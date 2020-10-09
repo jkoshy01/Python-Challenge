@@ -50,9 +50,7 @@ Before You Start
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
   
 
-
-
- PyPoll Challenge:
+PyPoll Challenge:
 
 * In this assignment, you are helping a small town to help count the voting process
 
@@ -72,17 +70,6 @@ Before You Start
 
 Here is how the analysis should look like
 
-Election Results
-  -------------------------
-  Total Votes: 3521001
-  -------------------------
-  Khan: 63.000% (2218231)
-  Correy: 20.000% (704200)
-  Li: 14.000% (492940)
-  O'Tooley: 3.000% (105630)
-  -------------------------
-  Winner: Khan
-  -------------------------
 
   
  
