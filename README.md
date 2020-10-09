@@ -24,7 +24,7 @@ Before You Start
  
  PyBank Challenge 
 
-* First, in this challenge, the task is to create a Python script that will analyze the financial records of your company. You will use this file [budget_data.csv](PyBank/Resources/budget_data.csv) to create the data set. The two columns: `Date` and `Profit/Losses`is the resouce you will use to compose the data set.
+* First, in this challenge, the task is to create a Python script that will analyze the financial records based on your company. You will use this file [budget_data.csv](PyBank/Resources/budget_data.csv) to create the data set. The two columns: `Date` and `Profit/Losses`is the resouce that you will use to compose the data set.
 
 * create a Python script that will record and calculate the following:
 
@@ -59,19 +59,18 @@ Before You Start
 *You will use this resource to composed your data set. Pull this resource thisPyPoll/Resources/election_data.csv. 
 
 
- *Here are the steps to calculate the analysis
+*Here are the steps to calculate the analysis
  
-      *Number of total votes
-
+      
   * " Calculate the total number of votes
 
-  * The percentage of the candidates that won
+  * The percentage of the candidates that had won
 
-  * The number of votes each candidate won
+  * The number of votes the candidate had won
 
-  * The winner of the election based on popular vote."
+  * And the winner of the election based on popular vote."
 
-Here is a example of how the analysis looks like
+Here is how the analysis should look like
 
 Election Results
   -------------------------
