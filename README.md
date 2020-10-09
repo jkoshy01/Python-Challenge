@@ -24,19 +24,19 @@ Before You Start
  
  PyBank Challenge 
 
-* First, in this challenge, the task is to create a Python script that will analyze the financial records based on your company. You will use this file [budget_data.csv](PyBank/Resources/budget_data.csv) to create the data set. The two columns: `Date` and `Profit/Losses`is the resouce that you will use to compose the data set.
+* First, in this challenge, the task is to create a Python script that will analyze the financial records based on your company. You will use this file [budget_data.csv](PyBank/Resources/budget_data.csv) to create the data set. The two columns: "Date" and `Profit and Losses' is the resouce that you will use to compose the data set.
 
 * create a Python script that will record and calculate the following:
 
-  * " Total number of months
+* " Total number of months
 
-  * Net total amount of "Profit/Losses" over the  period
+* Net total amount of "Profit/Losses" over the  period
 
-  * Average of the in "Profit/Losses" over the period
+* Average of the in "Profit/Losses" over the period
 
-  * The greatest increase in profits over the period
+* The greatest increase in profits over the period
 
-  * The greatest decrease in losses over the period."
+* The greatest decrease in losses over the period."
 
 * Here is an example below:
   
@@ -55,7 +55,6 @@ PyPoll Challenge:
 * In this assignment, you are helping a small town to help count the voting process
 
 *You will use this resource to composed your data set. Pull this resource thisPyPoll/Resources/election_data.csv. 
-
 
 *Here are the steps to calculate the analysis
  
